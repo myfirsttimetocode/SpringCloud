@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SC-02-DemoEurekaConsumer" />
+        <module name="SC-02-DemoEurekaServer" />
+        <module name="SC-03-DemoEurekaProvider" />
+        <module name="Server" />
+        <module name="SC-06-Feign" />
+        <module name="SC-04-Consumer" />
+        <module name="SC-02-DemoEurekaProvider" />
+        <module name="FeignConsumer" />
+        <module name="SC-05-RestTemplate" />
+        <module name="SC-03-DemoEurekaServer (1)" />
+        <module name="SC-04-Ribbon" />
+        <module name="FeignProvider" />
+        <module name="SC-03-DemoEurekaServer" />
+        <module name="SC-04-Provider8082" />
+        <module name="DashBoard" />
+        <module name="SC-04-Provider8081" />
+        <module name="Provider" />
+        <module name="SC-04-EurekaServer" />
+        <module name="Consumer" />
+        <module name="FeignServer" />
+        <module name="ZuulGetWay" />
+        <module name="SC-03-DemoEurekaConsumer" />
+        <module name="SC-01-DemoProvider" />
+        <module name="Eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Consumer" target="1.8" />
+      <module name="DashBoard" target="1.8" />
+      <module name="dashboardServer" target="1.8" />
+      <module name="Eureka" target="1.8" />
+      <module name="FeignConsumer" target="1.8" />
+      <module name="FeignProvider" target="1.8" />
+      <module name="FeignServer" target="1.8" />
+      <module name="Provider" target="1.8" />
+      <module name="SC-01-DemoConsumer" target="1.8" />
+      <module name="SC-01-DemoProvider" target="1.8" />
+      <module name="SC-01-RestTemplate" target="1.5" />
+      <module name="SC-02-DemoEurekaConsumer" target="1.8" />
+      <module name="SC-02-DemoEurekaProvider" target="1.8" />
+      <module name="SC-02-DemoEurekaServer" target="1.8" />
+      <module name="SC-02-Eureka" target="1.8" />
+      <module name="SC-03-DemoEurekaConsumer" target="1.8" />
+      <module name="SC-03-DemoEurekaProvider" target="1.8" />
+      <module name="SC-03-DemoEurekaServer" target="1.8" />
+      <module name="SC-03-DemoEurekaServer (1)" target="1.8" />
+      <module name="SC-04-Consumer" target="1.8" />
+      <module name="SC-04-EurekaServer" target="1.8" />
+      <module name="SC-04-Provider8081" target="1.8" />
+      <module name="SC-04-Provider8082" target="1.8" />
+      <module name="SC-04-Ribbon" target="1.8" />
+      <module name="SC-05-RestTemplate" target="1.8" />
+      <module name="SC-06-Feign" target="1.8" />
+      <module name="SC-06-hystrix-dashboard" target="1.8" />
+      <module name="Server" target="1.8" />
+      <module name="ZuulGetWay" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Consumer" options="-parameters" />
+      <module name="DashBoard" options="-parameters" />
+      <module name="FeignConsumer" options="-parameters" />
+      <module name="FeignProvider" options="-parameters" />
+      <module name="FeignServer" options="-parameters" />
+      <module name="Provider" options="-parameters" />
+      <module name="SC-01-DemoConsumer" options="-parameters" />
+      <module name="SC-01-DemoProvider" options="-parameters" />
+      <module name="SC-02-DemoEurekaConsumer" options="-parameters" />
+      <module name="SC-02-DemoEurekaProvider" options="-parameters" />
+      <module name="SC-02-DemoEurekaServer" options="-parameters" />
+      <module name="SC-03-DemoEurekaConsumer" options="-parameters" />
+      <module name="SC-03-DemoEurekaProvider" options="-parameters" />
+      <module name="SC-03-DemoEurekaServer" options="-parameters" />
+      <module name="SC-03-DemoEurekaServer (1)" options="-parameters" />
+      <module name="SC-04-Consumer" options="-parameters" />
+      <module name="SC-04-EurekaServer" options="-parameters" />
+      <module name="SC-04-Provider8081" options="-parameters" />
+      <module name="SC-04-Provider8082" options="-parameters" />
+      <module name="SC-06-Feign" options="" />
+      <module name="Server" options="-parameters" />
+      <module name="ZuulGetWay" options="-parameters" />
+      <module name="dashboardServer" options="-parameters" />
+    </option>
+  </component>
+</project>

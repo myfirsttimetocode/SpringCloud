@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SC-05-RestTemplate/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/SC-05-RestTemplate/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-05-RestTemplate/DashBoard/DashBoard.iml" filepath="$PROJECT_DIR$/SC-05-RestTemplate/DashBoard/DashBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-03-Eureka/Eureka.iml" filepath="$PROJECT_DIR$/SC-03-Eureka/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-06-Feign/FeignConsumer/FeignConsumer.iml" filepath="$PROJECT_DIR$/SC-06-Feign/FeignConsumer/FeignConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-06-Feign/FeignProvider/FeignProvider.iml" filepath="$PROJECT_DIR$/SC-06-Feign/FeignProvider/FeignProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-06-Feign/FeignServer/FeignServer.iml" filepath="$PROJECT_DIR$/SC-06-Feign/FeignServer/FeignServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-05-RestTemplate/Provider/Provider.iml" filepath="$PROJECT_DIR$/SC-05-RestTemplate/Provider/Provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-01-RestTemplate/SC-01-DemoProvider/SC-01-DemoProvider.iml" filepath="$PROJECT_DIR$/SC-01-RestTemplate/SC-01-DemoProvider/SC-01-DemoProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaConsumer/SC-02-DemoEurekaConsumer.iml" filepath="$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaConsumer/SC-02-DemoEurekaConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaProvider/SC-02-DemoEurekaProvider.iml" filepath="$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaProvider/SC-02-DemoEurekaProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaServer/SC-02-DemoEurekaServer.iml" filepath="$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaServer/SC-02-DemoEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaConsumer/SC-03-DemoEurekaConsumer.iml" filepath="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaConsumer/SC-03-DemoEurekaConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaProvider/SC-03-DemoEurekaProvider.iml" filepath="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaProvider/SC-03-DemoEurekaProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9100/SC-03-DemoEurekaServer.iml" filepath="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9100/SC-03-DemoEurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9200/SC-03-DemoEurekaServer (1).iml" filepath="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9200/SC-03-DemoEurekaServer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Consumer/SC-04-Consumer.iml" filepath="$PROJECT_DIR$/SC-04-Ribbon/SC-04-Consumer/SC-04-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-EurekaServer/SC-04-EurekaServer.iml" filepath="$PROJECT_DIR$/SC-04-Ribbon/SC-04-EurekaServer/SC-04-EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8081/SC-04-Provider8081.iml" filepath="$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8081/SC-04-Provider8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8082/SC-04-Provider8082.iml" filepath="$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8082/SC-04-Provider8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-04-Ribbon.iml" filepath="$PROJECT_DIR$/SC-04-Ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-05-RestTemplate/SC-05-RestTemplate.iml" filepath="$PROJECT_DIR$/SC-05-RestTemplate/SC-05-RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-06-Feign.iml" filepath="$PROJECT_DIR$/SC-06-Feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-05-RestTemplate/Server/Server.iml" filepath="$PROJECT_DIR$/SC-05-RestTemplate/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SC-06-Feign/ZuulGetWay/ZuulGetWay.iml" filepath="$PROJECT_DIR$/SC-06-Feign/ZuulGetWay/ZuulGetWay.iml" />
+    </modules>
+  </component>
+</project>

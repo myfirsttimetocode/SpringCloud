@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/SC-01-RestTemplate/SC-01-DemoConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-01-RestTemplate/SC-01-DemoProvider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-01-RestTemplate/SC-01-DemoProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaConsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaProvider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-02-Eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaConsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaProvider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9100/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9200/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9200/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-03-Eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8081/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8082/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8082/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-04-Ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/DashBoard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/Provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/Server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-05-RestTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/FeignConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/FeignProvider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/FeignServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/ZuulGetWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/ZuulGetWay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-Feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-hystrix-dashboard/dashboardServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SC-06-hystrix-dashboard/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

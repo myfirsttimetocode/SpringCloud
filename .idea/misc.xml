@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/RestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/RestTemplate/SC-01-DemoProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/RestTemplate/SC-01-DemoConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/SC-02-DemoEurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/SC-02-DemoEurekaProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/SC-02-DemoEurekaConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9100/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaServer-9200/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-03-Eureka/SC-03-DemoEurekaConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-03-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-04-Ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-01-RestTemplate/SC-01-DemoProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-04-Ribbon/SC-04-EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8081/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-04-Ribbon/SC-04-Provider8082/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-04-Ribbon/SC-04-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-02-Eureka/SC-02-DemoEurekaProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-05-RestTemplate/Server/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-05-RestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-05-RestTemplate/Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-05-RestTemplate/Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-06-hystrix-dashboard/dashboardServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-05-RestTemplate/DashBoard/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-06-Feign/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-06-Feign/FeignServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-06-Feign/FeignProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-06-Feign/FeignConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/SC-06-Feign/ZuulGetWay/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
